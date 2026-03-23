@@ -97,7 +97,7 @@ ignore_missing_imports = true
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
 testpaths = ["tests"]
-addopts = "--cov=src/stocktrader --cov-report=term-missing --cov-fail-under=0"
+addopts = "--cov=src/stocktrader --cov-report=term-missing --cov-fail-under=70"
 
 [tool.coverage.run]
 source = ["src/stocktrader"]

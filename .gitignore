@@ -39,6 +39,9 @@ htmlcov/
 .dmypy.json
 dmypy.json
 
+# Linting
+.ruff_cache/
+
 # IDE
 .vscode/
 .idea/
