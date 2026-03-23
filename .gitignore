@@ -76,3 +76,6 @@ config.local.yaml
 
 # Claude Code — personal settings only; shared config (.claude/settings.json, CLAUDE.md, etc.) should be committed
 .claude/settings.local.json
+
+# Personal notes
+notes-on-*.md
